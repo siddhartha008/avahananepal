@@ -1,8 +1,6 @@
-# React + Vite
+# Aavahana Nepal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Avahana Nepal is a community-driven organization dedicated to creating a sustainable impact in Nepal through comprehensive programs in health, education, social welfare, sports, and sustainable development. We are committed to empowering vulnerable communities, promoting modern agricultural practices, enhancing access to clean water, and supporting disaster relief efforts. Avahana is built on the principles of service, innovation, and collaboration, striving to uplift those in need while ensuring long-term development for future generations.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Website built using React.js and Tailwind CSS. 
